@@ -1,0 +1,16 @@
+/wordpress
+/wp-admin
+/wp-login.php
+/wp-content/debug.log
+/wp-includes
+/magento
+/magento_admin
+/joomla
+/drupal
+/drupal/admin
+/shopware
+/opencart
+/prestashop
+/cms-admin
+/cms/login
+/cms/config

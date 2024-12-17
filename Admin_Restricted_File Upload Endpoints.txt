@@ -1,0 +1,17 @@
+/upload
+/uploads
+/admin/upload
+/admin/uploads
+/files/upload
+/upload.php
+/upload.jsp
+/upload.asp
+/upload.html
+/api/upload
+/api/file/upload
+/secure/upload
+/filemanager
+/filebrowser
+/fileadmin
+/uploader
+/uploader.php

@@ -1,0 +1,17 @@
+/logs
+/error
+/errors
+/debug.log
+/system.log
+/access.log
+/application.log
+/monitoring
+/server-status
+/server-info
+/status
+/health
+/healthz
+/diagnostics
+/debug/status
+/api/status
+/metrics
