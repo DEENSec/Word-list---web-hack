@@ -1,5 +1,5 @@
 # Word-list---web-hack
-This repo contain Word-Lists
+Hello! sec Folks just try this world list for brute force ATTACK!
 
 # NOTES 
 
